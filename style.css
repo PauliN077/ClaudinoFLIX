@@ -31,4 +31,13 @@ h3{
 
 .imagemfilme{
     text-align: center;
+    align-content: center;
+    display: flex;
 }
+
+.imagemv{
+width: 10%;
+height: 10%;
+}
+
+
